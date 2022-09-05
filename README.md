@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://img.shields.io/github/forks/AndersonLima12/dev-coffe"/>
-<img src="https://img.shields.io/github/stars/AndersonLima12/dev-coffe"/>
+<img src="https://img.shields.io/github/forks/AndersonLima12/password-generator"/>
+<img src="https://img.shields.io/github/stars/AndersonLima12/password-generator"/>
 </div>
 
 <br/>
