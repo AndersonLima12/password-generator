@@ -37,7 +37,7 @@ Projeto desenolvido para meios de aprendizado.</em></strong> ❗️ 📚 👨�
 ## - Imagem do projeto...😁
 
 <h1 align="center">
-  <img align="center" width="1100em" height="700em" alt="Desktop Result" title="#Desktop" src="https://github.com/AndersonLima12/password-generator/blob/master/img/Project.jpg" />
+  <img align="center" width="1100em" height="500em" alt="Desktop Result" title="#Desktop" src="https://github.com/AndersonLima12/password-generator/blob/master/img/Project.jpg" />
 </h1>
 
 ### Para você que ainda não sabe ? 👨🏻‍💻
